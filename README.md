@@ -7,6 +7,7 @@ Datasets evaluated in this work:
 2. I-RAVEN: https://github.com/husheng12345/SRAN
 3. PGM: https://github.com/deepmind/abstract-reasoning-matrices
 
+The network architecture of perception module in RS-CNN is the same as the multi-scale encoder in MRNet: https://github.com/yanivbenny/MRNet 
 
 Experiment parameters:
 
