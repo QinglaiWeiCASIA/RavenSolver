@@ -29,7 +29,7 @@ OIG: lr: 1e-3, lr_decay: 0.99,  batch size: 500, weight decay: 1e-6, optimizer: 
 
 
 
-MoM training paradigm: PGM is a very large dataset, for the convenience of observing and hype-parameter fine-tuning, for each epoch, we only train a minibatch of the training set (randomly draw from the training set). Given that each minibatch will be divided into smaller minibatches in each epoch, we call the training paradigm as minibatch of minibatch (MoM). MoM size refer to the training set size for each epoch. 
+MoM training paradigm: PGM is a very large dataset, for the convenience of observing and hype-parameter fine-tuning, for each epoch, we only train a minibatch of the training set (randomly draw from the training set). Given that each minibatch will be divided into smaller minibatches in each epoch, we call the training paradigm as minibatch of minibatch (MoM). MoM size means the training set size for each epoch. 
 
 
 
