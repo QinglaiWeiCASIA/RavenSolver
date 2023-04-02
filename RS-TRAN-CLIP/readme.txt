@@ -41,3 +41,5 @@ run
 	
 
 ========================================================
+To improve the performance of RS-TRAN in terms of convergence speed and reasoning accuracy, use the perception module of the trained RS-TRAN-CLIP in RS-TRAN as pretraining model. 
+
