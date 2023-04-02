@@ -10,7 +10,9 @@ Datasets evaluated in this work:
 As mentioned in the paper, the network architecture of perception module in RS-CNN is the same as the multi-scale encoder in MRNet: https://github.com/yanivbenny/MRNet 
 
 ==============================================================================
+
 RS-CNN and RS-TRAN are models for solving RPM problems.
+
 RS-TRAN-CLIP is a model for predicting the meta-data, while the perception module of the trained RS-TRAN-CLIP can be used as a pretraining model in RS-TRAN. 
 
 ==============================================================================
