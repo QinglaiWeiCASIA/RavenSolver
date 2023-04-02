@@ -1,15 +1,15 @@
 How to use these codes
 
-Save RAVEN dataset to 'Clip/Datasets/', e.g. Clip/Datasets/distribute_nine/
+Save RAVEN dataset to 'RS-TRAN-CLIP/Datasets/', e.g. RS-TRAN-CLIP/Datasets/distribute_nine/
 
-Save PGM dataset to 'Clip/'，e.g. Clip/neutral/
+Save PGM dataset to 'RS-TRAN-CLIP/'，e.g. Clip/neutral/
 
 
 Run
 
-	"Clip/read_tokens_pgm.py",
-	"Clip/Datasets/read_tokens_raven_d9.py",
-	"Clip/Datasets/read_tokens_raven_oig.py"  
+	"RS-TRAN-CLIP/read_tokens_pgm.py",
+	"RS-TRAN-CLIP/Datasets/read_tokens_raven_d9.py",
+	"RS-TRAN-CLIP/Datasets/read_tokens_raven_oig.py"  
 to obtain meta-data in pkl form.	
 
 =======================================================
@@ -35,9 +35,9 @@ weight_decay=0
 ========================================================
 run
 
-	"Clip/train_tran_clip_d9.py",
-	"Clip/train_tran_clip_oig.py",
-	"Clip/train_tran_clip_pgm.py"
+	"RS-TRAN-CLIP/train_tran_clip_d9.py",
+	"RS-TRAN-CLIP/train_tran_clip_oig.py",
+	"RS-TRAN-CLIP/train_tran_clip_pgm.py"
 	
 
 ========================================================
