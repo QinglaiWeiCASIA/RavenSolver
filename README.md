@@ -69,7 +69,7 @@ Arguments in the code:
 set all the arguments in set_args.py:
 
 Namespace(
-batch_size=500,\\
+batch_size=500,
 big=False, //True when training RS-CNN on O-IG.
 datapath,
 dataset, //'RAVEN' or 'PGM'
